@@ -24,7 +24,7 @@ Secure Authenticator supports many most well known browsers, includes Microsoft 
 ## Download and Installation
 Secure Authenticator is available Microsft Store only at https://www.microsoft.com/store/apps/9P9W5SZ3CHB2
 
-Open in Microsoft Store application at [Microsoft Store App](ms-windows-store://pdp/?productid=9P9W5SZ3CHB2)
+Open in Microsoft Store application at ms-windows-store://pdp/?productid=9P9W5SZ3CHB2
 
 ## Privacy
 The application Secure Authenticator (now called application) an application helps to generate two factor authentication code in Windows.
